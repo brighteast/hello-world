@@ -1,2 +1,2 @@
 # hello-world
-My repository
+Making and Committing changes
